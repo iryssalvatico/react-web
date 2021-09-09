@@ -8,18 +8,16 @@ export default createGlobalStyle`
     margin: 0 auto;
   }
   h1{
-    color: #ffffff;
+    color: #E6B8B8;
   }
   body{
     width:100;
-    max-width: 1024px;
+    max-width: 1400px;
     margin: 0 auto;
   }
 `
 
-
 export const colors = {
-    black:"#000000",
     white: "#ffffff",
-    fundo: "#B7B295"
+    fundo: "#E6B8B8"
 }
