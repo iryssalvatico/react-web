@@ -8,7 +8,7 @@ export default createGlobalStyle`
     margin: 0 auto;
   }
   h1{
-    color: #000000;
+    color: #ffffff;
   }
   body{
     width:100;
