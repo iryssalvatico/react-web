@@ -1,5 +1,5 @@
 import {Switch, Route} from "react-router-dom"
-import {Pagone} from "pages"
+import { Pagone } from "../pages"
 
 const Routes = () => {
     return(
