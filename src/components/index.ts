@@ -1,1 +1,5 @@
 export {default as Header} from "./Header"
+export {default as Body} from "./Body"
+export {default as Body2} from "./Body2"
+export {default as Body3} from "./Body3"
+export {default as Body4} from "./Body4"

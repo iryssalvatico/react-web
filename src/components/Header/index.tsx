@@ -1,16 +1,17 @@
 import * as S from "./styles"
 
+
 const Header = () => {
     return (
         <S.Header>
         
         <ul>
             
-                <li>
-                <a href="Página2.HTML">Gênero: Romance </a>
+                <li> <S.A href ="gênero" target="_self">
+                 Gênero: Romance </S.A>
                 </li>
-                <li id= "liautores">
-                <a href="Página 3.HTML">Autora: Kiera Cass </a>
+                <li><S.A href ="autores" target="_self">
+                 Autora: Kiera Cass </S.A>
                 </li>
                  <li id="lipesquiseaqui">
                  <a href=" ">Pesquise aqui </a>
