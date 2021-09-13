@@ -2,6 +2,8 @@ import * as S from "./styles"
 import livro1 from "../../assets/LIVRO 1.svg"
 import livro2 from "../../assets/LIVRO 2.svg"
 import livro3 from "../../assets/LIVRO 3.svg"
+import r1 from "../../assets/Retangle 8.svg"
+import r2 from "../../assets/Retangle 9.svg"
 
 
 const Body = () => {

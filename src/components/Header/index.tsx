@@ -1,10 +1,13 @@
 import * as S from "./styles"
+import logo from "../../assets/LOGO.svg"
 
 
 const Header = () => {
     return (
         <S.Header>
-        
+         <picture>
+            <img src = {logo} alt="logo"/>  
+        </picture>
         <ul>
             
                 <li> <S.A href ="gênero" target="_self">
