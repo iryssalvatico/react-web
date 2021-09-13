@@ -1,5 +1,11 @@
 import * as S from "./styles"
-
+import fundo from "../../assets/FUNDO.svg"
+import livro9 from "../../assets/LIVRO 9.svg"
+import livro10 from "../../assets/LIVRO 10.svg"
+import livro11 from "../../assets/LIVRO 11.svg"
+import livro12 from "../../assets/LIVRO 12.svg"
+import livro13 from "../../assets/LIVRO 13.svg"
+import r1 from "../../assets/Retangle 8.svg"
 
 const Body3 = () => {
     return (
@@ -10,11 +16,11 @@ const Body3 = () => {
             </section>
             <section className="livros">
 
-                <h1>livro 9</h1>  
-                <h1>livro 10</h1>  
-                <h1>livro 11</h1>  
-                <h1>livro 12</h1>  
-                <h1>livro 13</h1>  
+                <img  src = {livro9} alt="livro 9"/>  
+                <img  src = {livro10} alt="livro 10"/>  
+                <img  src=  {livro11} alt="livro 11"/>
+                <img  src = {livro12} alt="livro 12"/>  
+                <img  src = {livro13} alt="livro 13"/>  
                 
                  
             </section>

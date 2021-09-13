@@ -21,7 +21,6 @@ const Body2 = () => {
                 <img  src = {livro7} alt="livro 7"/>  
                 <img  src = {livro8} alt="livro 8"/>  
                 
-                 
             </section>
         </nav>
         
