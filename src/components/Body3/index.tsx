@@ -1,5 +1,4 @@
 import * as S from "./styles"
-import fundo from "../../assets/FUNDO.svg"
 import livro9 from "../../assets/LIVRO 9.svg"
 import livro10 from "../../assets/LIVRO 10.svg"
 import livro11 from "../../assets/LIVRO 11.svg"
@@ -16,16 +15,16 @@ const Body3 = () => {
             </section>
             <section className="livros">
 
-                <img  src = {livro9} alt="livro 9"/>  
-                <img  src = {livro10} alt="livro 10"/>  
+                <img  src = {livro9} alt="livro 9"/>
+                <img  src = {livro10} alt="livro 10"/>
                 <img  src=  {livro11} alt="livro 11"/>
-                <img  src = {livro12} alt="livro 12"/>  
-                <img  src = {livro13} alt="livro 13"/>  
-                
-                 
+                <img  src = {livro12} alt="livro 12"/>
+                <img  src = {livro13} alt="livro 13"/>
+
+
             </section>
         </nav>
-        
+
         </S.Body3>
     )
 }
