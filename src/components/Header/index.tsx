@@ -3,7 +3,7 @@ import * as S from "./styles"
 const Header = () => {
     return (
         <S.Header>
-        <h1>BOOKS TIPS</h1>
+        
         <ul>
             
                 <li>
