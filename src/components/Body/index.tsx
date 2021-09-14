@@ -1,4 +1,5 @@
 import * as S from "./styles"
+import fundo from "../../assets/FUNDO.svg"
 import livro1 from "../../assets/LIVRO 1.svg"
 import livro2 from "../../assets/LIVRO 2.svg"
 import livro3 from "../../assets/LIVRO 3.svg"
