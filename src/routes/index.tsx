@@ -1,7 +1,9 @@
 import {Switch, Route} from "react-router-dom"
-import { Pagefour, Pagone } from "../pages"
+import { Pagone } from "../pages"
 import { Pagetwo } from "../pages"
 import { Pagethree } from "../pages"
+import { Pagefour } from "../pages"
+
 
 const Routes = () => {
     return(
@@ -9,6 +11,7 @@ const Routes = () => {
             <Route path="//" component={Pagone}/>
             <Route path="/gênero" component={Pagetwo}/>
             <Route path="/autores" component={Pagethree}/>
+            <Route path="/livro 9" component={Pagefour}/>
     
         </Switch>
     
