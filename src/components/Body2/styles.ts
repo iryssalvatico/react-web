@@ -1,36 +1,23 @@
 import styled from "styled-components"
 
 export const Body2 = styled.body`
-
-.livros img{
-    padding: 0 6rem;
-}
-.livros2{
+  background-image: url(./IMG/FUNDO.svg);
     width: 100%;
-    display:flex;
-    flex-direction: row;
-    justify-content: center;
+    height: 50rem;
 
-}
-.pagina2e3 {
-    background-image: url(./IMG/FUNDO.svg);
-    width: 100%;
-    height: 62rem;
-
-}
-.pagina2e3 nav{
+ nav{
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.pagina2e3 nav section p{
+    section p{
     margin: 2rem;
     background-color: #DAFAD3;
     text-align: center;
     font-size: 2rem;
     font-family: 'Old Standard TT';
+    
 }
-.pagina2e3 nav div{
-    margin-top: 4rem;
+div{
+    margin-top: 7rem;}
 }
 `

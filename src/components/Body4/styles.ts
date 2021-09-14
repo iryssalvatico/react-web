@@ -1,6 +1,5 @@
 import styled from "styled-components"
 export const Body4 = styled.body`
-
 nav{
     display: flex;
     flex-direction: column;

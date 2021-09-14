@@ -11,7 +11,7 @@ const Routes = () => {
             <Route path="//" component={Pagone}/>
             <Route path="/gênero" component={Pagetwo}/>
             <Route path="/autores" component={Pagethree}/>
-            <Route path="/livro 9" component={Pagefour}/>
+            <Route path="/livro9" component={Pagefour}/>
     
         </Switch>
     
