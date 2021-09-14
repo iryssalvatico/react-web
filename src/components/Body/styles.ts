@@ -20,8 +20,6 @@ export const Body = styled.body`
     font-family: 'Old Standard TT';
     
 }
-div{
-    margin-top: 7rem;}
 }
   
   
