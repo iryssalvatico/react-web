@@ -14,6 +14,7 @@ const Body = () => {
                 <p id="p1">Favoritos do Público</p>
             </section>
             <section className="livros">
+                <img  src =  { fundo }  alt = "fundo" / >
                 <img  src = {livro1} alt="livro 1"/>  
                 <img  src = {livro2} alt="livro 2"/>  
                 <img  src=  {livro3} alt="livro 3"/>
