@@ -1,21 +1,3 @@
-export const Body = styled.body
-    background-image: url("${bgPag1}");
-    width: 100%;
-    height: 50rem;
- nav{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    section p{
-    margin: 2rem;
-    background-color: #DAFAD3;
-    text-align: center;
-    font-size: 2rem;
-    font-family: 'Old Standard TT';
-    
-}
-  
-  
 import * as S from "./styles"
 import livro1 from "../../assets/LIVRO 1.svg"
 import livro2 from "../../assets/LIVRO 2.svg"
