@@ -1,11 +1,10 @@
 import styled from "styled-components"
 import bgPag1 from "../../assets/FUNDO.svg"
 
+export const Body = styled.body
     background-image: url("${bgPag1}");
     width: 100%;
     height: 50rem;
-
-
  nav{
     display: flex;
     flex-direction: column;
@@ -19,6 +18,5 @@ import bgPag1 from "../../assets/FUNDO.svg"
     
 }
 }
-  
   
 `
