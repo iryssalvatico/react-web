@@ -7,7 +7,7 @@ nav{
 }
 nav h1{
     margin: 2rem;
-    background-color: #DAFAD3;
+    color: black;
     text-align: center;
     font-size: 2rem;
     font-family: 'Old Standard TT';
@@ -20,5 +20,12 @@ nav p{
 }
 nav img{
     width: 25%;
+}
+.anuncio {
+    padding-top: 150px;
+    padding-left: 200px;
+}
+.fundo{
+    background-color: #D98695;
 }
 `

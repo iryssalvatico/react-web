@@ -18,6 +18,7 @@ export const Header = styled.header`
     background-color:#DAFAD3;
     font-size: 1.5rem;
     font-family: Old Standard TT;
+    border: black;
 }
 
 

@@ -1,11 +1,7 @@
 import styled from "styled-components"
 
 export const Body = styled.body`
-background-image: url(./IMG/FUNDO.svg);
-    width: 100%;
-    height: 50rem;
-
- nav{
+nav{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,5 +16,28 @@ background-image: url(./IMG/FUNDO.svg);
 div{
     margin-top: 7rem;}
 }
+.livros {
+   align-items: center;
 
+}
+.livro10 {
+    padding-right: 300px;
+    padding-left: 300px;
+}
+.livro12 {
+    padding-right: 280px;
+    padding-left: 280px;
+}
+.livro13 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.anuncio {
+    padding-top: 150px;
+    padding-left: 200px;
+}
+.fundo{
+    background-color: #D98695;
+}
 `
