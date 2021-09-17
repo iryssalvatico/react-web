@@ -2,17 +2,26 @@ import styled from "styled-components"
 
 export const Body = styled.body`
 
+
 nav{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-nav section p{
+ nav {
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+    section p {
+
     margin: 2rem;
     background-color: #DAFAD3;
     text-align: center;
     font-size: 2rem;
     font-family: 'Old Standard TT';
+
 }
 nav div{
     margin-top: 7rem;

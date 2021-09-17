@@ -13,14 +13,16 @@ const Body = () => {
                 <p id="p1">Favoritos do Público</p>
             </section>
             <section className="livros">
+
                 <img className="livro1" src = {livro1} alt="livro 1"/>  
                 <img className="livro2" src = {livro2} alt="livro 2"/>  
                 <img className="livro3" src=  {livro3} alt="livro 3"/>
                 <img className="anuncio" src = {anuncio} alt="anuncio"/>
                  
+
             </section>
         </nav>
-        
+
         </S.Body>
     )
 }
